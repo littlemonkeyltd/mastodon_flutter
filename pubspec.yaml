@@ -15,7 +15,7 @@ dependencies:
       url: https://github.com/littlemonkeyltd/mastodon_dart.git
   html: ^0.14.0+3
   shared_preferences: ^0.5.6+3
-  url_launcher: ^5.4.2
+  url_launcher: 
   feather_icons_flutter: ^4.7.4
   timeago: ^2.0.26
   stack_trace: ^1.9.3
